@@ -17,10 +17,10 @@
   "support": {
     "email": "729021170@163.com"
   },
-  "license": "proprietary",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Liushuangxi\\": [
+      "Html\\": [
         "src"
       ]
     }
