@@ -1,5 +1,5 @@
 <?php
-namespace Html;
+namespace Liushuangxi\Html;
 
 /**
  * Class Tool

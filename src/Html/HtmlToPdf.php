@@ -1,7 +1,7 @@
 <?php
-namespace Html;
+namespace Liushuangxi\Html;
 
-use Html\Tool;
+use Liushuangxi\Html\Tool;
 
 /**
  * Class HtmlToPdf
