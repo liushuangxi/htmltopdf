@@ -1,0 +1,28 @@
+{
+  "name": "liushuangxi/htmltopdf",
+  "description": "htmltopdf, htmltoimage",
+  "type": "library",
+  "keywords": [
+    "htmltopdf",
+    "htmltoimage"
+  ],
+  "time": "201７-04-16",
+  "authors": [
+    {
+      "name": "柳双喜",
+      "email": "729021170@163.com"
+    }
+  ],
+  "require": {},
+  "support": {
+    "email": "729021170@163.com"
+  },
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "Liushuangxi\\": [
+        "src"
+      ]
+    }
+  }
+}
