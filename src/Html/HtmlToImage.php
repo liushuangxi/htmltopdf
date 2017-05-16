@@ -1,7 +1,7 @@
 <?php
-namespace Liushuangxi\Html;
+namespace Html;
 
-use Liushuangxi\Html\Tool;
+use Html\Tool;
 
 /**
  * Class HtmlToImage
