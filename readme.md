@@ -17,8 +17,8 @@
 <pre>
 require_once "vendor/autoload.php";
 
-use Liushuangxi\Html\HtmlToPdf;
-use Liushuangxi\Html\HtmlToImage;
+use Html\HtmlToPdf;
+use Html\HtmlToImage;
 
 $list = [
     'http://www.baidu.com'
