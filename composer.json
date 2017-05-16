@@ -20,8 +20,8 @@
   "license": "proprietary",
   "autoload": {
     "psr-4": {
-      "Liushuangxi\\": [
-        "src"
+      "Html\\": [
+        "src/Html"
       ]
     }
   }
