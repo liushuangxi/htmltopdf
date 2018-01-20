@@ -1,4 +1,5 @@
 <?php
+
 namespace Html;
 
 use Html\Tool;
@@ -10,6 +11,8 @@ use Html\Tool;
 class HtmlToImage
 {
     /**
+     * https://wkhtmltopdf.org/usage/wkhtmltopdf.txt
+     *
      * @param $list
      * @param $destination
      * @param string $options

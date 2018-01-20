@@ -1,6 +1,6 @@
 {
   "name": "liushuangxi/htmltopdf",
-  "description": "htmltopdf, htmltoimage",
+  "description": "convert html to pdf,image",
   "type": "library",
   "keywords": [
     "htmltopdf",
@@ -13,11 +13,7 @@
       "email": "729021170@163.com"
     }
   ],
-  "require": {},
-  "support": {
-    "email": "729021170@163.com"
-  },
-  "license": "proprietary",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Html\\": [
